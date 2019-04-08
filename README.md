@@ -31,7 +31,7 @@ Mobile app which simulates Turing Machine implemented in JavaScript using ReactN
       `react-native run-ios`
 
 
-### About project
+### About the project
 
 This project was the coursework in the subject "Mathematics Logic and Algorithms Theorie".
 
