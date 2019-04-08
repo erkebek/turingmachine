@@ -4,6 +4,7 @@ Mobile app which simulates Turing Machine implemented in JavaScript using ReactN
 ## Installation
 
 **Requires:**
+* Android SDK or iOS SDK
 * ReactNative 0.58 or higher
 * node 8.3 or higher 
 * npm or yarn
