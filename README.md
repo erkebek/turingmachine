@@ -1,5 +1,5 @@
 # Turing Machine
-Mobile app which simulates Turing Machine implemented in JavaScript using ReactNative framework 
+Mobile app which simulates Turing Machine implemented in JavaScript using ReactNative framework.
 
 ## Installation
 
@@ -8,7 +8,7 @@ Mobile app which simulates Turing Machine implemented in JavaScript using ReactN
 * node 8.3 or higher 
 * npm or yarn
 
-### Steps
+### Steps:
 
 1. Clone repository
 
@@ -29,3 +29,12 @@ Mobile app which simulates Turing Machine implemented in JavaScript using ReactN
    To test on ios:
    
       `react-native run-ios`
+
+
+### About project
+
+This project was the coursework in the subject "Mathematics Logic and Algorithms Theorie".
+
+Coursework done by Erkebek Abdrakhman uulu.
+
+**INAI.KG 2019**
