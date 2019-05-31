@@ -13,7 +13,7 @@ Mobile app which simulates Turing Machine implemented in JavaScript using ReactN
 
 1. Clone repository
 
-   `https://github.com/erkebekab/turingmachine.git`
+   `https://github.com/1erkebek/turingmachine.git`
 
 
 2. Install node dependencies
